@@ -1,0 +1,3 @@
+[submodule "application-repo"]
+	path = application-repo
+	url = https://github.com/missviee/application-repo.git
